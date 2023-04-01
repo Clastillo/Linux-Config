@@ -1,0 +1,6 @@
+2023/03/04-16:32:40.383 407 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_566e5578eb0a2cbfae61190f4d6aee4d.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/03/04-16:32:40.392 407 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_566e5578eb0a2cbfae61190f4d6aee4d.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/04-16:32:58.378 43a6 Level-0 table #5: started
+2023/03/04-16:32:58.381 43a6 Level-0 table #5: 480 bytes OK
+2023/03/04-16:32:58.386 43a6 Delete type=0 #3
+2023/03/04-16:32:58.386 43a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

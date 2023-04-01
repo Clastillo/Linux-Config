@@ -1,0 +1,13 @@
+2023/03/14-18:22:48.300 749 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-18:22:48.301 749 Recovering log #21
+2023/03/14-18:22:48.301 749 Reusing old log /home/farfiel/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000021.log 
+2023/03/14-18:22:49.532 749 Level-0 table #25: started
+2023/03/14-18:22:49.535 749 Level-0 table #25: 514 bytes OK
+2023/03/14-18:22:49.538 749 Delete type=0 #21
+2023/03/14-18:22:49.539 749 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 202 : 1
+2023/03/14-18:22:49.539 749 Compacting 1@0 + 1@1 files
+2023/03/14-18:22:49.542 749 Generated table #26@0: 7 keys, 447 bytes
+2023/03/14-18:22:49.542 749 Compacted 1@0 + 1@1 files => 447 bytes
+2023/03/14-18:22:49.545 749 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-18:22:49.545 749 Delete type=2 #25
+2023/03/14-18:22:49.545 749 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 202 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

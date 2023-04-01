@@ -1,0 +1,13 @@
+2023/03/28-15:56:31.304 e12 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-15:56:31.304 e12 Recovering log #6
+2023/03/28-15:56:31.304 e12 Reusing old log /home/farfiel/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000006.log 
+2023/03/28-15:56:31.460 e15 Level-0 table #10: started
+2023/03/28-15:56:31.463 e15 Level-0 table #10: 2947 bytes OK
+2023/03/28-15:56:31.469 e15 Delete type=0 #6
+2023/03/28-15:56:31.469 e12 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 227 : 1
+2023/03/28-15:56:31.469 e12 Compacting 1@0 + 1@1 files
+2023/03/28-15:56:31.474 e12 Generated table #11@0: 90 keys, 2283 bytes
+2023/03/28-15:56:31.474 e12 Compacted 1@0 + 1@1 files => 2283 bytes
+2023/03/28-15:56:31.480 e12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-15:56:31.480 e12 Delete type=2 #10
+2023/03/28-15:56:31.480 e12 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 227 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

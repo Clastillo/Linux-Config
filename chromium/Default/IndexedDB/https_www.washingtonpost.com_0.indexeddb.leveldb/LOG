@@ -1,0 +1,6 @@
+2023/03/11-14:37:33.437 585 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_www.washingtonpost.com_0.indexeddb.leveldb since it was missing.
+2023/03/11-14:37:33.446 585 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_www.washingtonpost.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-16:21:29.227 585 Level-0 table #5: started
+2023/03/11-16:21:29.230 585 Level-0 table #5: 2317 bytes OK
+2023/03/11-16:21:29.234 585 Delete type=0 #3
+2023/03/11-16:21:29.234 585 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

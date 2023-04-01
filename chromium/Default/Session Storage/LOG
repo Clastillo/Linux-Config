@@ -1,0 +1,15 @@
+2023/04/01-11:58:56.737 3 Reusing MANIFEST /home/farfiel/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/04/01-11:58:56.738 3 Recovering log #223
+2023/04/01-11:58:56.738 3 Reusing old log /home/farfiel/.config/chromium/Default/Session Storage/000223.log 
+2023/04/01-12:23:19.229 3 Level-0 table #227: started
+2023/04/01-12:23:19.233 3 Level-0 table #227: 19581 bytes OK
+2023/04/01-12:23:19.237 3 Delete type=0 #223
+2023/04/01-12:23:19.238 3 Compacting 4@0 + 1@1 files
+2023/04/01-12:23:19.246 3 Generated table #228@0: 44 keys, 3070 bytes
+2023/04/01-12:23:19.246 3 Compacted 4@0 + 1@1 files => 3070 bytes
+2023/04/01-12:23:19.249 3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/04/01-12:23:19.250 3 Delete type=2 #222
+2023/04/01-12:23:19.250 3 Delete type=2 #227
+2023/04/01-12:23:19.250 3 Delete type=2 #224
+2023/04/01-12:23:19.250 3 Delete type=2 #219
+2023/04/01-12:23:19.250 3 Delete type=2 #217

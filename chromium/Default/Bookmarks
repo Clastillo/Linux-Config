@@ -1,0 +1,100 @@
+{
+   "checksum": "c8e183bc91e4930657f4f9dc57a04627",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13322431122762859",
+               "date_last_used": "0",
+               "guid": "c8dc58a5-86d8-4143-92d0-0f73500be3db",
+               "id": "5",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "packer",
+               "type": "url",
+               "url": "https://github.com/wbthomason/packer.nvim"
+            }, {
+               "date_added": "13322431157331476",
+               "date_last_used": "0",
+               "guid": "51429c10-619e-491e-bc9d-5933c48c482e",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "telescope",
+               "type": "url",
+               "url": "https://github.com/nvim-telescope/telescope.nvim"
+            } ],
+            "date_added": "13322431133603919",
+            "date_last_used": "0",
+            "date_modified": "13323468757573214",
+            "guid": "8d478896-0bd6-4c7c-957f-26cb036ca178",
+            "id": "6",
+            "name": "nvim",
+            "type": "folder"
+         }, {
+            "date_added": "13323468757573214",
+            "date_last_used": "0",
+            "guid": "33d3a531-8ac4-47ce-8e8d-4e4b4fff0bfb",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Session 5 génie électrique et génie informatique, Hiver 2023",
+            "type": "url",
+            "url": "https://www.gegi.usherbrooke.ca/s5ei/h23/"
+         }, {
+            "date_added": "13323667882577763",
+            "date_last_used": "0",
+            "guid": "81a510db-fbf8-4342-9fb2-7ed17093fa77",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Atmel SMART SAM D21 Datasheet",
+            "type": "url",
+            "url": "https://files.seeedstudio.com/wiki/Seeeduino-XIAO/res/ATSAMD21G18A-MU-Datasheet.pdf"
+         }, {
+            "date_added": "13323667979973011",
+            "date_last_used": "0",
+            "guid": "24c3c3a1-0231-4c41-953b-6f4dd5dadcdc",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Seeeduino XIAO in Action——Minitype ＆ Wearable Projects Step by Step",
+            "type": "url",
+            "url": "file:///home/farfiel/.cache/.fr-UML411/Seeeduino%20XIAO/Seeeduino%20XIAO%20in%20Action%E2%80%94%E2%80%94Minitype%20%EF%BC%86%20Wearable%20Projects%20Step%20by%20Step.pdf"
+         } ],
+         "date_added": "13322425428856513",
+         "date_last_used": "0",
+         "date_modified": "13323667979973011",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13322425428856517",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13322425428856518",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

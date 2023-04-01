@@ -1,0 +1,34 @@
+2023/03/14-21:15:00.197 749 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-21:15:00.197 749 Recovering log #24
+2023/03/14-21:15:00.197 749 Reusing old log /home/farfiel/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000024.log 
+2023/03/14-21:15:00.197 749 Delete type=2 #22
+2023/03/14-21:15:00.752 749 Level-0 table #29: started
+2023/03/14-21:15:00.755 749 Level-0 table #29: 515 bytes OK
+2023/03/14-21:15:00.759 749 Delete type=0 #24
+2023/03/14-21:15:00.759 749 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 221 : 1
+2023/03/14-21:15:00.759 749 Compacting 1@0 + 1@1 files
+2023/03/14-21:15:00.762 749 Generated table #30@0: 7 keys, 447 bytes
+2023/03/14-21:15:00.762 749 Compacted 1@0 + 1@1 files => 447 bytes
+2023/03/14-21:15:00.765 749 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-21:15:00.765 749 Delete type=2 #29
+2023/03/14-21:15:00.765 749 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 221 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/14-21:15:02.771 74a Level-0 table #32: started
+2023/03/14-21:15:02.774 74a Level-0 table #32: 256 bytes OK
+2023/03/14-21:15:02.779 74a Delete type=0 #28
+2023/03/14-21:15:02.779 74a Delete type=2 #26
+2023/03/14-21:15:02.779 74a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 235 : 0
+2023/03/14-21:15:02.779 74a Compacting 1@0 + 1@1 files
+2023/03/14-21:15:02.782 74a Generated table #33@0: 9 keys, 472 bytes
+2023/03/14-21:15:02.782 74a Compacted 1@0 + 1@1 files => 472 bytes
+2023/03/14-21:15:02.786 74a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-21:15:02.786 74a Delete type=2 #32
+2023/03/14-21:15:02.786 74a Delete type=2 #30
+2023/03/14-21:15:02.786 74a Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 235 : 0 .. (end); will stop at (end)
+2023/03/14-21:15:02.786 74a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00f\x00a\x00c\x00e\x00b\x00o\x00o\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x0b\x00_\x00_\x00e\x00n\x00s\x00u\x00r\x00e\x00_\x00d\x00b' @ 225 : 0
+2023/03/14-21:15:02.786 74a Compacting 1@1 + 1@2 files
+2023/03/14-21:15:02.789 74a Generated table #34@1: 38 keys, 955 bytes
+2023/03/14-21:15:02.789 74a Compacted 1@1 + 1@2 files => 955 bytes
+2023/03/14-21:15:02.793 74a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-21:15:02.793 74a Delete type=2 #19
+2023/03/14-21:15:02.793 74a Delete type=2 #33
+2023/03/14-21:15:02.793 74a Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00f\x00a\x00c\x00e\x00b\x00o\x00o\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x0b\x00_\x00_\x00e\x00n\x00s\x00u\x00r\x00e\x00_\x00d\x00b' @ 225 : 0 .. (end); will stop at (end)

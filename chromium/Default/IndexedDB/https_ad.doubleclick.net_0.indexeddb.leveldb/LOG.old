@@ -1,0 +1,6 @@
+2023/03/28-18:41:09.809 e12 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2023/03/28-18:41:09.818 e12 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-18:41:41.124 1571 Level-0 table #5: started
+2023/03/28-18:41:41.128 1571 Level-0 table #5: 387 bytes OK
+2023/03/28-18:41:41.131 1571 Delete type=0 #3
+2023/03/28-18:41:41.132 1571 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/03/03-20:12:42.943 3a1 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
+2023/03/03-20:12:42.952 3a1 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/03-20:14:33.173 139d Level-0 table #5: started
+2023/03/03-20:14:33.180 139d Level-0 table #5: 69651 bytes OK
+2023/03/03-20:14:33.185 139d Delete type=0 #3
+2023/03/03-20:14:33.185 139d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,50 @@
+2023/03/28-18:42:02.477 e12 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb since it was missing.
+2023/03/28-18:42:02.485 e12 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-18:42:13.560 1571 Level-0 table #5: started
+2023/03/28-18:42:13.584 1571 Level-0 table #5: 1352181 bytes OK
+2023/03/28-18:42:13.589 1571 Delete type=0 #3
+2023/03/28-18:42:13.674 1571 Level-0 table #7: started
+2023/03/28-18:42:13.695 1571 Level-0 table #7: 1283652 bytes OK
+2023/03/28-18:42:13.698 1571 Delete type=0 #4
+2023/03/28-18:42:13.701 1571 Compacting 1@1 + 1@2 files
+2023/03/28-18:42:13.743 1571 Generated table #8@1: 24392 keys, 2181712 bytes
+2023/03/28-18:42:13.754 1571 Generated table #9@1: 5995 keys, 272801 bytes
+2023/03/28-18:42:13.754 1571 Compacted 1@1 + 1@2 files => 2454513 bytes
+2023/03/28-18:42:13.757 1571 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/28-18:42:13.757 1571 Delete type=2 #7
+2023/03/28-18:42:13.757 1571 Delete type=2 #5
+2023/03/28-18:42:13.808 1571 Level-0 table #11: started
+2023/03/28-18:42:13.824 1571 Level-0 table #11: 1288699 bytes OK
+2023/03/28-18:42:13.827 1571 Delete type=0 #6
+2023/03/28-18:42:13.830 1571 Compacting 1@1 + 2@2 files
+2023/03/28-18:42:13.863 1571 Generated table #12@1: 31414 keys, 2188092 bytes
+2023/03/28-18:42:13.886 1571 Generated table #13@1: 12485 keys, 1377919 bytes
+2023/03/28-18:42:13.886 1571 Compacted 1@1 + 2@2 files => 3566011 bytes
+2023/03/28-18:42:13.889 1571 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/28-18:42:13.918 1571 Level-0 table #15: started
+2023/03/28-18:42:13.933 1571 Level-0 table #15: 1287970 bytes OK
+2023/03/28-18:42:13.937 1571 Delete type=2 #9
+2023/03/28-18:42:13.938 1571 Delete type=2 #11
+2023/03/28-18:42:13.938 1571 Delete type=0 #10
+2023/03/28-18:42:13.938 1571 Delete type=2 #8
+2023/03/28-18:42:13.940 1571 Compacting 1@1 + 2@2 files
+2023/03/28-18:42:13.975 1571 Generated table #16@1: 38958 keys, 2191763 bytes
+2023/03/28-18:42:14.006 1571 Generated table #17@1: 10070 keys, 2172246 bytes
+2023/03/28-18:42:14.016 1571 Generated table #18@1: 8812 keys, 337288 bytes
+2023/03/28-18:42:14.016 1571 Compacted 1@1 + 2@2 files => 4701297 bytes
+2023/03/28-18:42:14.019 1571 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/03/28-18:42:14.019 1571 Delete type=2 #13
+2023/03/28-18:42:14.019 1571 Delete type=2 #12
+2023/03/28-18:42:14.019 1571 Delete type=2 #15
+2023/03/28-18:42:14.047 e12 Level-0 table #20: started
+2023/03/28-18:42:14.066 e12 Level-0 table #20: 1184958 bytes OK
+2023/03/28-18:42:14.071 e12 Delete type=0 #14
+2023/03/28-18:42:36.109 1571 Compacting 1@1 + 3@2 files
+2023/03/28-18:42:36.166 1571 Generated table #21@1: 7799 keys, 2171319 bytes
+2023/03/28-18:42:36.189 1571 Generated table #22@1: 16559 keys, 1503802 bytes
+2023/03/28-18:42:36.189 1571 Compacted 1@1 + 3@2 files => 3675121 bytes
+2023/03/28-18:42:36.193 1571 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/28-18:42:36.193 1571 Delete type=2 #16
+2023/03/28-18:42:36.193 1571 Delete type=2 #17
+2023/03/28-18:42:36.193 1571 Delete type=2 #20
+2023/03/28-18:42:36.193 1571 Delete type=2 #18

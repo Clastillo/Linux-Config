@@ -1,0 +1,12 @@
+2023/03/14-14:59:18.935 4b9 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-14:59:18.935 4b9 Recovering log #13
+2023/03/14-14:59:18.942 4b9 Reusing old log /home/farfiel/.config/chromium/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/000013.log 
+2023/03/14-14:59:38.436 4b9 Level-0 table #18: started
+2023/03/14-14:59:38.453 4b9 Level-0 table #18: 1386422 bytes OK
+2023/03/14-14:59:38.457 4b9 Delete type=0 #13
+2023/03/14-14:59:39.111 4b9 Compacting 1@1 + 1@2 files
+2023/03/14-14:59:39.129 4b9 Generated table #19@1: 5075 keys, 588601 bytes
+2023/03/14-14:59:39.129 4b9 Compacted 1@1 + 1@2 files => 588601 bytes
+2023/03/14-14:59:39.132 4b9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-14:59:39.133 4b9 Delete type=2 #18
+2023/03/14-14:59:39.133 4b9 Delete type=2 #15

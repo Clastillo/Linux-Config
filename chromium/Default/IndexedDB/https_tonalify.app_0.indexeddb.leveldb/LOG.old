@@ -1,0 +1,6 @@
+2023/03/06-22:25:42.586 1503 Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_tonalify.app_0.indexeddb.leveldb since it was missing.
+2023/03/06-22:25:42.594 1503 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_tonalify.app_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-22:26:06.508 397e Level-0 table #5: started
+2023/03/06-22:26:06.511 397e Level-0 table #5: 1137 bytes OK
+2023/03/06-22:26:06.515 397e Delete type=0 #3
+2023/03/06-22:26:06.516 397e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

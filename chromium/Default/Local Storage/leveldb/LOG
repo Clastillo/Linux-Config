@@ -1,0 +1,31 @@
+2023/04/01-11:58:51.853 3 Reusing MANIFEST /home/farfiel/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/01-11:58:51.854 3 Recovering log #908
+2023/04/01-11:58:51.856 3 Reusing old log /home/farfiel/.config/chromium/Default/Local Storage/leveldb/000908.log 
+2023/04/01-12:00:01.314 6 Level-0 table #912: started
+2023/04/01-12:00:01.327 6 Level-0 table #912: 12769 bytes OK
+2023/04/01-12:00:01.334 6 Delete type=0 #908
+2023/04/01-12:03:01.314 3 Level-0 table #914: started
+2023/04/01-12:03:01.321 3 Level-0 table #914: 18012 bytes OK
+2023/04/01-12:03:01.328 3 Delete type=0 #911
+2023/04/01-12:17:20.322 3 Level-0 table #916: started
+2023/04/01-12:17:20.335 3 Level-0 table #916: 43810 bytes OK
+2023/04/01-12:17:20.342 3 Delete type=0 #913
+2023/04/01-12:17:20.343 3 Compacting 4@0 + 3@1 files
+2023/04/01-12:17:20.368 3 Generated table #917@0: 669 keys, 2535802 bytes
+2023/04/01-12:17:20.394 3 Generated table #918@0: 965 keys, 2121573 bytes
+2023/04/01-12:17:20.408 3 Generated table #919@0: 2900 keys, 912699 bytes
+2023/04/01-12:17:20.409 3 Compacted 4@0 + 3@1 files => 5570074 bytes
+2023/04/01-12:17:20.413 3 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/04/01-12:17:20.413 3 Delete type=2 #916
+2023/04/01-12:17:20.413 3 Delete type=2 #905
+2023/04/01-12:17:20.413 3 Delete type=2 #907
+2023/04/01-12:17:20.413 3 Delete type=2 #912
+2023/04/01-12:17:20.414 3 Delete type=2 #906
+2023/04/01-12:17:20.414 3 Delete type=2 #909
+2023/04/01-12:17:20.414 3 Delete type=2 #914
+2023/04/01-12:24:32.698 3 Level-0 table #921: started
+2023/04/01-12:24:32.711 3 Level-0 table #921: 28120 bytes OK
+2023/04/01-12:24:32.718 3 Delete type=0 #915
+2023/04/01-12:26:33.018 3 Level-0 table #923: started
+2023/04/01-12:26:33.031 3 Level-0 table #923: 41861 bytes OK
+2023/04/01-12:26:33.038 3 Delete type=0 #920

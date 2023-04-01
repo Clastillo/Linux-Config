@@ -1,0 +1,6 @@
+2023/03/02-23:12:59.447 715a Creating DB /home/farfiel/.config/chromium/Default/IndexedDB/https_www.addictivetips.com_0.indexeddb.leveldb since it was missing.
+2023/03/02-23:12:59.455 715a Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_www.addictivetips.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-23:14:09.792 715a Level-0 table #5: started
+2023/03/02-23:14:09.795 715a Level-0 table #5: 1746 bytes OK
+2023/03/02-23:14:09.799 715a Delete type=0 #3
+2023/03/02-23:14:09.799 715a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

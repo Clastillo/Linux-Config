@@ -1,0 +1,7 @@
+2023/03/16-15:24:01.074 40b2 Reusing MANIFEST /home/farfiel/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/16-15:24:01.074 40b2 Recovering log #57
+2023/03/16-15:24:01.079 40b2 Reusing old log /home/farfiel/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000057.log 
+2023/03/16-15:24:01.079 40b2 Delete type=2 #53
+2023/03/16-15:24:01.079 40b2 Delete type=2 #56
+2023/03/16-15:24:01.079 40b2 Delete type=2 #54
+2023/03/16-15:24:01.079 40b2 Delete type=2 #55
